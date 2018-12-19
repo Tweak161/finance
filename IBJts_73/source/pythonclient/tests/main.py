@@ -1,0 +1,3 @@
+import manual
+
+manual.main()

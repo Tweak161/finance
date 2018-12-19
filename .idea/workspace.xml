@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f034cde-84c5-4514-9fdd-28526a529f84" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/InteractiveBrokerAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccInf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AccountInfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/API_VersionNum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/AccountSummaryTags.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/AccountSummaryTags.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/AvailableAlgoParams.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/AvailableAlgoParams.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/ContractSamples.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/ContractSamples.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/FAMethodSamples.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/Main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/OrderSamples.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/OrderSamples.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/ScannerSubscriptionSamples.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/ScannerSubscriptionSamples.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/StdAfx.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/StdAfx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/TestCppClient.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/TestCppClient.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClient/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClientSSL/Main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClientSSL/StdAfx.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClientSSL/StdAfx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClientSSL/TestCppClientSSL.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClientSSL/TestCppClientSSL.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Cpp/TestCppClientSSL/makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/ApiDemo.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/AccountDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/AccountSummary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/AcctUpdatesDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/AlgoParamsDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/ComboLegDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/ConnectDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/ExecFilterDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/ExtOrdDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/FAAllocationInfoDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/FinancialAdvisorDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/GroupsDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/HistoricalDataDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/HistoricalNewsDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/IBGridBagPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/IBTextPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/JDialogBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/LogConfigDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/MarketRuleDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/MktDepthDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/NewsArticleDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/NewsBulletinDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/OrderDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/PnLDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/PnLSingleDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/PositionsDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/SampleFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/ScannerDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/SecDefOptParamsReqDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/SmartComboRoutingParamsDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/SmartComponentsParamsReqDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/TestJavaClient/UnderCompDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/AccountInfoPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/AccountPositionsMultiPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/AccountSummaryPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/AdjustedPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/AdvisorPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/ApiDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/Chart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/ComboPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/ConditionDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/ConditionsModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/ConditionsPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/ContractConditionPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/ContractDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/ContractInfoPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/ContractLookupButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/ContractPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/ContractSearchDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/ExercisePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/FamilyCodesPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/HistoricalTickBidAskModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/HistoricalTickLastModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/HistoricalTickModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/HistoricalTickResultsPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/MarginConditionPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/MarketDataPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/MarketValueSummaryPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/MktDepthExchangesPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/NewsPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/OnOKPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/OperatorConditionPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/OptParamsModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/OptionChainsPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/OptionsPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/OrdersPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/PegBenchPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/PercentConditionPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/PnLModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/PnLSingleModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/PositionsPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/PriceConditionPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/StratPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/TicketDlg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/TimeConditionPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/TopModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/TradeConditionPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/TradesPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/TradingPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/VolumeConditionPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/util/HtmlButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/util/IConnectionConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/util/NewLookAndFeel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/util/NewTabbedPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/util/TCombo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/util/UpperField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/util/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/apidemo/util/VerticalPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/samples/dnhedge/DNHedgeOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/samples/dnhedge/SampleDNHedge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/samples/rfq/RfqOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/samples/rfq/SampleRfq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/samples/rfq/SimpleWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/samples/testbed/EWrapperImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/samples/testbed/Testbed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/samples/testbed/advisor/FAMethodSamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/samples/testbed/contracts/ContractSamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/samples/testbed/orders/AvailableAlgoParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/samples/testbed/orders/OrderSamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Java/samples/testbed/scanner/ScannerSubscriptionSamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Python/Testbed/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Python/Testbed/AvailableAlgoParams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Python/Testbed/ContractSamples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Python/Testbed/FaAllocationSamples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Python/Testbed/OrderSamples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Python/Testbed/Program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/samples/Python/Testbed/ScannerSubscriptionSamples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/TwsApi.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/TwsApi_debug.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/Bar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/BitMask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/ComboLeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/CommissionReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/Contract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/ContractCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/ContractDescription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/ContractDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/ContractLookuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/DefaultEWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/DeltaNeutralContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/DepthMktDataDescription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/EClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/EClientErrors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/EClientMsgSink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/EClientSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/EClientSocketSSL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/EDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/EJavaSignal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/EMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/EReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/EReaderSignal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/ESocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/ETransport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/EWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/EWrapperMsgGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/Execution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/ExecutionCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/ExecutionFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/FamilyCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/HistogramEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/HistoricalTick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/HistoricalTickBidAsk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/HistoricalTickLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/IApiEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/MarginCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/MarketDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/NewsProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/OperatorCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/OrderComboLeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/OrderCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/OrderConditionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/OrderState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/OrderType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/PercentChangeCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/PriceCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/PriceIncrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/ScannerSubscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/SoftDollarTier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/TagValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/TickAttr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/TickType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/TimeCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/Types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/client/VolumeCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/contracts/ComboContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/contracts/FutContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/contracts/OptContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/contracts/StkContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/AccountSummaryTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/AdvisorUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/Alias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/ApiConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/ApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/Bar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/ConcurrentHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/Formats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/Instrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/LocationCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/MarketValueTag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/ScanCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/com/ib/controller/TradeId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/JavaClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/CommissionReport.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/CommonDefs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/Contract.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/ContractCondition.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/ContractCondition.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/DefaultEWrapper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/DefaultEWrapper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/DepthMktDataDescription.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EClient.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EClient.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EClientMsgSink.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EClientSocket.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EClientSocket.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EDecoder.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EDecoder.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EMessage.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EMessage.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EMutex.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EMutex.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EPosixClientSocketPlatform.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EReader.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EReader.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EReaderOSSignal.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EReaderOSSignal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EReaderSignal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EReaderWMSignal.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EReaderWMSignal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/ESocket.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/ESocket.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/ETransport.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/EWrapper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/Execution.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/FamilyCode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/HistogramEntry.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/HistoricalTick.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/HistoricalTickBidAsk.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/HistoricalTickLast.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/IExternalizable.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/MarginCondition.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/MarginCondition.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/NewsProvider.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/OperatorCondition.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/OperatorCondition.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/Order.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/OrderCondition.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/OrderCondition.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/OrderState.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/PercentChangeCondition.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/PercentChangeCondition.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/PriceCondition.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/PriceCondition.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/PriceIncrement.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/Resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/ScannerSubscription.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/SoftDollarTier.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/SoftDollarTier.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/StdAfx.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/StdAfx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/TagValue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/TickAttrib.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/TimeCondition.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/TimeCondition.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/TwsSocketClientErrors.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/VolumeCondition.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/VolumeCondition.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/bar.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/executioncondition.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/executioncondition.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/client/shared_ptr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/ssl/EClientSocketSSL.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/ssl/EClientSocketSSL.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/ssl/EReaderSSL.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/ssl/EReaderSSL.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/ssl/ESocketSSL.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/ssl/ESocketSSL.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/ssl/StdAfx.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/cppclient/ssl/StdAfx.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/MANIFEST.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/account_summary_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/comm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/commission_report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/contract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/decoder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/enum_implem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/execution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/news.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/object_implem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/order_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/order_state.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/scanner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/server_versions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/softdollartier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/tag_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/ticktype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/ibapi/wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/tests/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/tests/manual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/tests/test_account_summary_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/tests/test_comm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/tests/test_enum_implem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/tests/test_order_conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/tests/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IBJts/source/pythonclient/tox.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortfolioInfo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/Application.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spielplatz.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1577892533">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/main.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+                  <folding>
+                    <element signature="e#123#133#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/model/Application.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="285">
+                  <caret line="19" selection-start-line="19" selection-end-line="19" />
+                  <folding>
+                    <element signature="e#588#622#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/controller/MainWindowController.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="404">
+                  <caret line="354" column="59" lean-forward="true" selection-start-line="354" selection-start-column="59" selection-end-line="354" selection-end-column="59" />
+                  <folding>
+                    <element signature="e#7#17#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/model/Defintion.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="14" selection-start-line="11" selection-end-line="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar://$USER_HOME$/.local/lib/python3.5/site-packages/ibapi-9.73.7-py3.5.egg!/ibapi/connection.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1590">
+                  <caret line="111" selection-start-line="111" selection-end-line="111" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/model/Database.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2535">
+                  <caret line="440" column="26" selection-start-line="440" selection-start-column="8" selection-end-line="440" selection-end-column="26" />
+                  <folding>
+                    <element signature="e#0#11#0" expanded="true" />
+                    <element signature="e#287#316#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/model/Models.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2475">
+                  <caret line="174" column="39" selection-start-line="174" selection-start-column="39" selection-end-line="174" selection-end-column="39" />
+                  <folding>
+                    <element signature="e#0#74#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/model/Plot.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1620">
+                  <caret line="442" column="26" selection-start-line="442" selection-start-column="26" selection-end-line="442" selection-end-column="26" />
+                  <folding>
+                    <element signature="e#0#31#0" expanded="true" />
+                    <element signature="e#783#2118#0" />
+                    <element signature="e#2150#5477#0" />
+                    <element signature="e#3258#4713#0" />
+                    <element signature="e#5513#9713#0" />
+                    <element signature="e#10284#10364#0" />
+                    <element signature="e#10546#12701#0" />
+                    <element signature="e#12883#14941#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/controller/MainWindowController.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="209">
+                  <caret line="362" column="18" selection-start-line="362" selection-start-column="18" selection-end-line="362" selection-end-column="18" />
+                  <folding>
+                    <element signature="e#7#17#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>returning unresolved contract</find>
+      <find>self.symbol_list</find>
+      <find>QMainWindow</find>
+      <find>QScroll</find>
+      <find>Tab4</find>
+      <find>self.canvas</find>
+      <find>Rank</find>
+      <find>as Canvas</find>
+      <find>as Canv</find>
+      <find>plotLabel32</find>
+      <find>iv_rank_plot</find>
+      <find>ticker</find>
+      <find>ticker.Str</find>
+      <find>self.fig</find>
+      <find>self.axes</find>
+      <find>cell_select</find>
+      <find>self.cbar</find>
+      <find># Create colorbar</find>
+      <find>self.iv_rank_array</find>
+      <find>set_xtick</find>
+      <find>RankPlot</find>
+      <find>col_labels</find>
+      <find>_on_mousewheel</find>
+      <find>rank_plot</find>
+      <find>tight</find>
+      <find>inspect</find>
+      <find>Tab3</find>
+      <find>self.duration_list</find>
+      <find>get_wat</find>
+      <find>Tab3(</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/IBJts/source/pythonclient</dir>
+      <dir>$PROJECT_DIR$/IBJts/source/pythonclient/ibapi</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/IBJts/source/pythonclient/tests/main.py" />
+        <option value="$PROJECT_DIR$/IBJts/samples/Python/Testbed/AvailableAlgoParams.py" />
+        <option value="$PROJECT_DIR$/Plot.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/tests2.py" />
+        <option value="$PROJECT_DIR$/AccountInformation2.py" />
+        <option value="$PROJECT_DIR$/example1.py" />
+        <option value="$PROJECT_DIR$/PortfolioInfo.py" />
+        <option value="$PROJECT_DIR$/AccountInfo.py" />
+        <option value="$PROJECT_DIR$/AccInf.py" />
+        <option value="$PROJECT_DIR$/historicalDataGit.py" />
+        <option value="$PROJECT_DIR$/historicalData.py" />
+        <option value="$PROJECT_DIR$/view/MainWindow.py" />
+        <option value="$PROJECT_DIR$/test/database.py" />
+        <option value="$PROJECT_DIR$/view/__init__.py" />
+        <option value="$PROJECT_DIR$/model/__init__.py" />
+        <option value="$PROJECT_DIR$/../InteractiveBrokerAPI/DataDownloader.py" />
+        <option value="$PROJECT_DIR$/../InteractiveBrokerAPI/IBAPIpythonexample1.py" />
+        <option value="$PROJECT_DIR$/../InteractiveBrokerAPI/temp.py" />
+        <option value="$PROJECT_DIR$/model/Defintion.py" />
+        <option value="$PROJECT_DIR$/model/Models.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/model/Application.py" />
+        <option value="$PROJECT_DIR$/spielplatz.py" />
+        <option value="$PROJECT_DIR$/model/Plot.py" />
+        <option value="$PROJECT_DIR$/model/Database.py" />
+        <option value="$PROJECT_DIR$/controller/MainWindowController.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="-11" />
+    <option name="width" value="1922" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/controller" />
+      <recent name="$PROJECT_DIR$/view" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Application" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InteractiveBrokerAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/Application.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MainWindowController" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InteractiveBrokerAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/controller" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/controller/MainWindowController.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InteractiveBrokerAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model/Models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InteractiveBrokerAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spielplatz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InteractiveBrokerAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spielplatz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="InteractiveBrokerAPI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.Application" />
+      <item itemvalue="Python.MainWindowController" />
+      <item itemvalue="Python.spielplatz" />
+      <item itemvalue="Python.Models" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.spielplatz" />
+        <item itemvalue="Python.Application" />
+        <item itemvalue="Python.MainWindowController" />
+        <item itemvalue="Python.Models" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f034cde-84c5-4514-9fdd-28526a529f84" name="Default" comment="" />
+      <created>1504525003462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504525003462</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_Application_py - 2017.11.01 at 17h 19m 36s.xml">
+      <configuration name="Unittests in Application.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Application_py - 2017.11.01 at 17h 20m 03s.xml">
+      <configuration name="Unittests in Application.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Application_py - 2017.11.09 at 15h 20m 19s.xml">
+      <configuration name="Unittests in Application.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Application_py - 2017.11.09 at 15h 24m 34s.xml">
+      <configuration name="Unittests in Application.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Application_py - 2017.11.09 at 15h 24m 54s.xml">
+      <configuration name="Unittests in Application.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Application_py - 2017.11.09 at 15h 25m 06s.xml">
+      <configuration name="Unittests in Application.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_Application_py - 2017.11.09 at 15h 28m 24s.xml">
+      <configuration name="Unittests in Application.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_historicalDataGit_py - 2017.10.30 at 17h 05m 42s.xml">
+      <configuration name="Unittests in historicalDataGit.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_historicalDataGit_py - 2017.10.30 at 17h 11m 58s.xml">
+      <configuration name="Unittests in historicalDataGit.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_historicalDataGit_py - 2017.10.30 at 17h 23m 16s.xml">
+      <configuration name="Unittests in historicalDataGit.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.13864629" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879582" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26594594" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5089005" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3278867" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3278867" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.33717278" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13864629" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879582" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2659686" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38219896" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3278867" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.33717278" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3278867" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/Database.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../InteractiveBrokerAPI/temp.py</url>
+          <line>225</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../InteractiveBrokerAPI/DataDownloader.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/Plot.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller/MainWindowController.py</url>
+          <line>272</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/spielplatz.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/Models.py</url>
+          <line>295</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/Models.py</url>
+          <line>205</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/Models.py</url>
+          <line>404</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/Application.py</url>
+          <line>578</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/Application.py</url>
+          <line>537</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="contract_details" />
+        <watch expression="contract" />
+        <watch expression="contract1" />
+        <watch expression="contract" />
+        <watch expression="contract1_details_list" />
+        <watch expression="self.contract_list" />
+        <watch expression="self.scroll" />
+        <watch expression="vbar" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>vbar.value()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x = self.scroll.pos()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.scroll.pos()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x = self.db.get_iv_rank()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x = contract_details.conId</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contract_details.conId</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hist_price[-1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(log_return_list)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(log_return_list) - duration + 1</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>len(log_return_list) - duration &lt; 0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(log_return_list) - duration</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>symbol == 'USO'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>symbol=='USO'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>symbol == 'TLT'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>contract.symbol == 'TLT'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hist_iv_new.shape[1] != 6</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hist_iv_new.shape[1] !=6</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 897</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 895</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>if contract_details_list:</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x = is contract_details_list</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x = contract_details_list[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>type(text)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x = self.text_list[3].get_position()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x = self.text_list[2].get_position()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x = text.get_position()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x = text._axes</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>x = text._position</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iv_data['Symbol'] = symbol_list</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///usr/local/lib/python3.5/dist-packages/ibapi-9.73.2-py3.5.egg!/ibapi/connection.py" />
+    <entry file="jar:///usr/local/lib/python3.5/dist-packages/ibapi-9.73.2-py3.5.egg!/ibapi/client.py" />
+    <entry file="file://$PROJECT_DIR$/test/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="26" selection-start-line="26" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PortfolioInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1494">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources_rc.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/lib/python3.5/threading.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/ibapi/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/ibapi/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="520" column="21" selection-start-line="520" selection-start-column="21" selection-end-line="520" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../InteractiveBrokerAPI/IBAPIpythonexample1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="116" column="16" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../InteractiveBrokerAPI/DataDownloader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="2" column="6" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Plot.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1247971764/PyQt5/QtWidgets/QMessageBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../InteractiveBrokerAPI/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="284" column="24" lean-forward="true" selection-start-line="284" selection-start-column="24" selection-end-line="284" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/historicalData.py" />
+    <entry file="file:///usr/lib/python3.5/queue.py" />
+    <entry file="jar://$USER_HOME$/.local/lib/python3.5/site-packages/ibapi-9.73.7-py3.5.egg!/ibapi/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-815">
+          <caret line="2189" column="8" selection-start-line="2189" selection-start-column="8" selection-end-line="2189" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/numpy/core/_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1247971764/PyQt5/QtCore/pyqtSignal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-1247971764/PyQt5/QtWidgets/QVBoxLayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/matplotlib/dates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/numpy/core/fromnumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="2419" selection-start-line="2419" selection-end-line="2419" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/MainWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="966" column="36" selection-start-line="966" selection-start-column="36" selection-end-line="966" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/_strptime.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/numpy/lib/function_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="4857" selection-start-line="4857" selection-end-line="4857" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/matplotlib/cbook/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="387" selection-start-line="387" selection-end-line="387" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/matplotlib/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12654">
+          <caret line="723" selection-start-line="723" selection-end-line="723" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/matplotlib/axis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="1203" selection-start-line="1203" selection-end-line="1203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/matplotlib/artist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/matplotlib/colors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="228" selection-start-line="228" selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="1527" selection-start-line="1527" selection-end-line="1527" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="962" selection-start-line="962" selection-end-line="962" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.local/lib/python3.5/site-packages/ibapi-9.73.7-py3.5.egg!/ibapi/contract.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="68" column="3" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../InteractiveBrokerApp1/model/Plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="255" selection-start-line="264" selection-start-column="8" selection-end-line="264" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/matplotlib/backends/backend_qt5agg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/matplotlib/ticker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="435" selection-start-line="435" selection-end-line="435" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/matplotlib/figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="380" lean-forward="true" selection-start-line="380" selection-end-line="381" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/matplotlib/backends/backend_qt5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="234" selection-start-line="234" selection-end-line="234" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python3.5/site-packages/matplotlib/backend_bases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1234">
+          <caret line="1772" selection-start-line="1772" selection-end-line="1772" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spielplatz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="681" lean-forward="true" selection-start-line="681" selection-end-line="681" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Defintion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="11" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.local/lib/python3.5/site-packages/ibapi-9.73.7-py3.5.egg!/ibapi/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1590">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2535">
+          <caret line="440" column="26" selection-start-line="440" selection-start-column="8" selection-end-line="440" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#287#316#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2475">
+          <caret line="174" column="39" selection-start-line="174" selection-start-column="39" selection-end-line="174" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="442" column="26" selection-start-line="442" selection-start-column="26" selection-end-line="442" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#783#2118#0" />
+            <element signature="e#2150#5477#0" />
+            <element signature="e#3258#4713#0" />
+            <element signature="e#5513#9713#0" />
+            <element signature="e#10284#10364#0" />
+            <element signature="e#10546#12701#0" />
+            <element signature="e#12883#14941#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controller/MainWindowController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="354" column="59" lean-forward="true" selection-start-line="354" selection-start-column="59" selection-end-line="354" selection-end-column="59" />
+          <folding>
+            <element signature="e#7#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#123#133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#588#622#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
